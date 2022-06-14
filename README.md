@@ -1,10 +1,20 @@
-# 100DaysOfCode
+# The purpose of this repository to get you from the internship state to mid level with the help of awesome mentors.
 
-
-- Fundumental
+# The study plan will be divided to four main parts.
+- Fundmental
 - Kotlin
 - Android
 - Portifolio Projects
+
+## How we will accomplish that ?
+
+### we will pick a topic (Room) for example and the responsible mentor about that topic will:
+- guide you with tutorials and  estimated time for it (tow days) for example.
+- then will be a live session to discuss the topic from a senior prospective with best practice and security.
+- demonstrate live example from a real project.
+- discuss some interview questions about that topic.
+- Task with code review.
+
 
 # Fundumental
 
