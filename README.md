@@ -35,10 +35,10 @@ Each category include related topics as follow:
 |Clean Code|[Clean code freeCodeCamp](https://www.freecodecamp.org/news/clean-coding-for-beginners/)<br>it would be great if you can purchase Clean code book by Uncle bob|
 |Clean Architecture|[Intro](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)<br> [Clean Architecture Tutorial for Android](https://www.raywenderlich.com/3595916-clean-architecture-tutorial-for-android-getting-started#toc-anchor-026)|
 |Database Design| [Database Design by Dr. Elmasry](https://docs.ccsu.edu/curriculumsheets/ChadTest.pdf)<br> Read ch1, ch2, ch3, ch4, ch7, ch8, ch9, and of course the more you read the more you will understand complex topics, but as a start you need to understand these chapters mentioned.|
+|UML| [Class Diagrams](https://sparxsystems.com/resources/tutorials/uml2/class-diagram.html)<br>[Use case Digrams](https://sparxsystems.com/resources/tutorials/uml2/use-case-diagram.html)<br>[Sequence Diagrams](https://sparxsystems.com/resources/tutorials/uml2/sequence-diagram.html)<br>|
 |SQLite| [SQLite](https://www.sqlitetutorial.net/)|
 |Git|[pro Git book](https://git-scm.com/book/en/v2)<br> [Docs](https://git-scm.com/)|
 |GitFlow| [Git flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20is%20a%20legacy%20Git,software%20development%20and%20DevOps%20practices.)<br> Have a look over [Trunk-based development](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)|
-|UML| [Class Diagrams](https://sparxsystems.com/resources/tutorials/uml2/class-diagram.html)<br>[Use case Digrams](https://sparxsystems.com/resources/tutorials/uml2/use-case-diagram.html)<br>[Sequence Diagrams](https://sparxsystems.com/resources/tutorials/uml2/sequence-diagram.html)<br>|
 
 ## How we will accomplish that ?
 
