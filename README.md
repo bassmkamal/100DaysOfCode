@@ -30,7 +30,7 @@ Each category include related topics as follow:
 |Topic| Resources|Progress|
 |---|---|---|
 |SOLID| [SOLID articles series](https://ashraf-mohamed.hashnode.dev/series/solid-principles)|
-|Design Patterns|[Learn Design-patterns in kotlin](https://www.geeksforgeeks.org/design-patterns-in-android-with-kotlin/)<br>[practice Design-patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin)<br>it would be great if you practice all of the patters, you can start with these <br> Factory, Adapter, Builder, Composite, Decorator, Listener, Observer, Singleton, Strategy|
+|Design Patterns|[Learn Design-patterns in kotlin](https://www.geeksforgeeks.org/design-patterns-in-android-with-kotlin/)<br>[practice Design-patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin) <br>[refactoring gur](https://refactoring.guru/)<br>it would be great if you practice all of the patters, you can start with these <br> Factory, Adapter, Builder, Composite, Decorator, Listener, Observer, Singleton, Strategy|
 |Data Structures / Algorithms   |[Data structure Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)<br>It would be awesome if you finish the whole playlist with practice, <br>but you can just learn the first 18 videos then from 24 to 37 as a start.|
 |Clean Code|[Clean code freeCodeCamp](https://www.freecodecamp.org/news/clean-coding-for-beginners/)<br>it would be great if you can purchase Clean code book by Uncle bob|
 |Clean Architecture|[Intro](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)<br> [Clean Architecture Tutorial for Android](https://www.raywenderlich.com/3595916-clean-architecture-tutorial-for-android-getting-started#toc-anchor-026)|
